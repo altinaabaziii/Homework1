@@ -7,3 +7,6 @@ git config --global alias.lo"log --oneline" echo
 Then I used:
 
 git lo
+
+
+![Screenshot](Screenshot.png)
